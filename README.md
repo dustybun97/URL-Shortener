@@ -1,3 +1,9 @@
+Tech Stacks
+- Next.js – for Frontend and API Routes
+- Supabase (PostgreSQL) – collect URL Mapping
+- Nanoid – generate random short url
+- Vercel for Deploy
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
